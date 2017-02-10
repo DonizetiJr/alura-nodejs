@@ -4,7 +4,11 @@
   "description": "Site casa do codigo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "engines": {
+    "node" : "4.2.6"
   },
   "author": "",
   "license": "ISC",
